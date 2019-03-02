@@ -330,7 +330,7 @@ def menu():
 
 \rk###########################################################
 #             \rb*Ngehek Facebook Ea mhank*\rk                  #
-# \rhBY\rp                                               AZURAX \rk#
+# \rhBY\rp                                        AzuraX-Thopik \rk#
 # \rhGroup FB\rp         https://m.facebook.com/groups/IDN_TEAM \rk#
 # \rhGitHub\rp                        https://github.com/aZuraX \rk#
 #       \rm  Jangan pake Tools ini IllegaL KONTOL            \rk#
